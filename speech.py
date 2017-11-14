@@ -61,6 +61,6 @@ def Start():
 	print("must be correct")
 	u_said_array = breakdown(u_said)
 	if ("run" in u_said_array and "chrome" in u_said_array):
-		print("run chrom")
+		print("run chrome")
 
 Start()
